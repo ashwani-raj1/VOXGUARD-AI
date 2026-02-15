@@ -1,0 +1,12 @@
+gunicorn
+librosa
+soundfile
+scipy
+speechrecognition
+pydub
+requests
+flask
+flask-cors
+numpy
+pandas
+scikit-learn
